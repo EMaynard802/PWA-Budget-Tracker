@@ -8,5 +8,5 @@ https://pwa-budget-tracker-application.herokuapp.com
 
 ## Images
 Image of main view:
-![Image of user's view when you visit the site](./public/demo.png)
+![Image of user's view when you visit the site](/demo.png)
 
