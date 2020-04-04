@@ -6,5 +6,7 @@ This website allows the user to keep track of their budget by inputting a series
 
 https://pwa-budget-tracker-application.herokuapp.com
 
-
+## Images
+Image of main view:
+![Image of user's view when you visit the site](./public/demo.png)
 
